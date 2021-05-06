@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b996137.chunk.css",
-    "main.js": "/static/js/main.30b3975e.chunk.js",
-    "main.js.map": "/static/js/main.30b3975e.chunk.js.map",
+    "main.css": "/static/css/main.a81fb920.chunk.css",
+    "main.js": "/static/js/main.8f9aeeab.chunk.js",
+    "main.js.map": "/static/js/main.8f9aeeab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2eec4c54.js",
     "runtime-main.js.map": "/static/js/runtime-main.2eec4c54.js.map",
     "static/js/2.d7ad702c.chunk.js": "/static/js/2.d7ad702c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ee7c8142.chunk.js": "/static/js/3.ee7c8142.chunk.js",
     "static/js/3.ee7c8142.chunk.js.map": "/static/js/3.ee7c8142.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6b996137.chunk.css.map": "/static/css/main.6b996137.chunk.css.map",
+    "static/css/main.a81fb920.chunk.css.map": "/static/css/main.a81fb920.chunk.css.map",
     "static/js/2.d7ad702c.chunk.js.LICENSE.txt": "/static/js/2.d7ad702c.chunk.js.LICENSE.txt",
     "static/media/Clickmaps.bbb861e7.png": "/static/media/Clickmaps.bbb861e7.png",
     "static/media/Dropoff.137c84a6.png": "/static/media/Dropoff.137c84a6.png",
@@ -116,16 +116,17 @@
     "static/media/web-experience.63628b7d.png": "/static/media/web-experience.63628b7d.png",
     "static/media/web-experience.6f792822.png": "/static/media/web-experience.6f792822.png",
     "static/media/why-teach.972cd5cc.png": "/static/media/why-teach.972cd5cc.png",
+    "static/media/wireframe-example-row.b63f5693.png": "/static/media/wireframe-example-row.b63f5693.png",
     "static/media/wireframe-specifications.1551c980.png": "/static/media/wireframe-specifications.1551c980.png",
     "static/media/wireframe.15c37da7.png": "/static/media/wireframe.15c37da7.png",
-    "static/media/wireframe.5d0e6cf0.png": "/static/media/wireframe.5d0e6cf0.png",
+    "static/media/wireframe.8b1017e9.png": "/static/media/wireframe.8b1017e9.png",
     "static/media/wireframes.a9c659ac.png": "/static/media/wireframes.a9c659ac.png",
     "static/media/workshops.3eb24d0c.png": "/static/media/workshops.3eb24d0c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2eec4c54.js",
     "static/js/2.d7ad702c.chunk.js",
-    "static/css/main.6b996137.chunk.css",
-    "static/js/main.30b3975e.chunk.js"
+    "static/css/main.a81fb920.chunk.css",
+    "static/js/main.8f9aeeab.chunk.js"
   ]
 }
